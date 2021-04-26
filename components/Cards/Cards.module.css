@@ -1,0 +1,33 @@
+.container {
+    margin: 50px 0;
+}
+
+.card {
+    margin: 0 2% !important;
+}
+
+.resistance {
+    border-bottom: 10px solid rgba(146, 65, 65, 0.5)
+}
+
+.tolerance {
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5)
+}
+
+.minimum {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5)
+}
+
+.maximum {
+    border-bottom: 10px solid rgba(0255, 0, 0, 0.5)
+}
+
+
+
+
+
+@media (max-width: 945px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}

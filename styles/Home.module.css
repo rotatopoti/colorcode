@@ -110,6 +110,11 @@
   line-height: 1.5;
 }
 
+.buttons {
+  margin: 5px;
+  width: 110px;
+}
+
 .logo {
   height: 1em;
 }
